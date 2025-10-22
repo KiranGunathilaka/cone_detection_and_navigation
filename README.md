@@ -47,15 +47,19 @@ The final model was validated on a separate test set, yielding the following per
   * **Inference Speed:** $6.5 \text{ms}$ per image (on validation set)
 
   * **Inference FPS:** $\approx 153$ FPS ($1000 \text{ms} / 6.5 \text{ms}$)
-  
 
-### 1.4. Training Visualizations
+## 1.4.  Testing the model
+
+Open the `notebooks/inference.ipynb` and run it.
+
+
+### 1.5. Training Visualizations
 
 Training progress plots are included in the `training_results/` directory.
 
-### 1.5 Special Notes
+### 1.6 Special Notes
 The weights of the final model(.pt files) that was trained for the 3 classes is available in the `models` directory.
 
 The notebook that was used for the entire training and testing is available in the notebooks directory
 
-Prediction resulted images are in the `prediction_outputs/pred_custom`
+Results from predictions are in the `prediction_outputs/pred_custom`
