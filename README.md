@@ -1,8 +1,8 @@
-## DRIVERLESS SUBSYSTEM -  Cone Detection (Training a Model)
+# DRIVERLESS SUBSYSTEM -  Cone Detection and Navigation 
 
 **Candidate:** Kiran Gunathilaka
 
-
+## 1. Training a Model & Evaluation
 
 ### 1.1. Model Overview (Perception)
 
@@ -18,7 +18,7 @@ A **YOLOv8** model was trained for the cone detection task, which is responsible
 
 ### 1.2. Dataset
 
-The model was trained on a **publicly available dataset** (specifically, the Formula Student Cones dataset but had to clone it and re-export it in a way that the images are not stretched(resized) and distorted. 
+The model was trained on a **publicly available dataset** specifically, the Formula Student Cones dataset but had to clone it and re-export it in a way that the images are not stretched(resized) and distorted. 
 
 The dataset comprises images of cones under various lighting and pose conditions to ensure the model is robust.
 
@@ -50,18 +50,18 @@ The final model was validated on a separate test set, yielding the following per
 
 ## 1.4.  Testing the model
 
-Open the `notebooks/inference.ipynb` and run it.
+Open the `./cone_detection_model/notebooks/inference.ipynb` and run it.
 
-Or run the `scripts/predict.py` after changing the input data directory
+Or run the `./cone_detection_model/scripts/predict.py` after changing the input data directory
 
 
 ### 1.5. Training Visualizations
 
-Training progress plots are included in the `training_results/` directory.
+Training progress plots are included in the `./cone_detection_model/training_results/` directory.
 
 ### 1.6 Special Notes
-The weights of the final model(.pt files) that was trained for the 3 classes is available in the `models` directory.
+The weights of the final model(.pt files) that was trained for the 3 classes is available in the `./cone_detection_model/models` directory.
 
 The notebook that was used for the entire training and testing is available in the notebooks directory
 
-Results from predictions are in the `runs/` directory
+Results from predictions are in the `./cone_detection_model/runs/` directory

@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/fs_geometry/fs_geometry.egg-info/PKG-INFO
+../../build/fs_geometry/fs_geometry.egg-info/SOURCES.txt
+../../build/fs_geometry/fs_geometry.egg-info/dependency_links.txt
+../../build/fs_geometry/fs_geometry.egg-info/requires.txt
+../../build/fs_geometry/fs_geometry.egg-info/top_level.txt
+../../build/fs_geometry/fs_geometry.egg-info/zip-safe
+fs_geometry/__init__.py
+resource/fs_geometry
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

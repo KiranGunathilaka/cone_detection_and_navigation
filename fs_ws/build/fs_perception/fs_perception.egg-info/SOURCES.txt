@@ -1,0 +1,14 @@
+package.xml
+setup.cfg
+setup.py
+../../build/fs_perception/fs_perception.egg-info/PKG-INFO
+../../build/fs_perception/fs_perception.egg-info/SOURCES.txt
+../../build/fs_perception/fs_perception.egg-info/dependency_links.txt
+../../build/fs_perception/fs_perception.egg-info/requires.txt
+../../build/fs_perception/fs_perception.egg-info/top_level.txt
+../../build/fs_perception/fs_perception.egg-info/zip-safe
+fs_perception/__init__.py
+resource/fs_perception
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

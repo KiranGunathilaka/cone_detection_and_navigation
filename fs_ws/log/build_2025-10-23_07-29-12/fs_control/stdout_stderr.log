@@ -1,0 +1,30 @@
+running egg_info
+creating ../../build/fs_control/fs_control.egg-info
+writing ../../build/fs_control/fs_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/fs_control/fs_control.egg-info/dependency_links.txt
+writing requirements to ../../build/fs_control/fs_control.egg-info/requires.txt
+writing top-level names to ../../build/fs_control/fs_control.egg-info/top_level.txt
+writing manifest file '../../build/fs_control/fs_control.egg-info/SOURCES.txt'
+reading manifest file '../../build/fs_control/fs_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/fs_control/fs_control.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_control/build
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_control/build/lib
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_control/build/lib/fs_control
+copying fs_control/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_control/build/lib/fs_control
+running install
+running install_lib
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/lib/python3.12/site-packages/fs_control
+copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_control/build/lib/fs_control/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/lib/python3.12/site-packages/fs_control
+byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/lib/python3.12/site-packages/fs_control/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/share/ament_index
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/share/ament_index/resource_index
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/share/ament_index/resource_index/packages
+copying resource/fs_control -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/share/ament_index/resource_index/packages
+copying package.xml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/share/fs_control
+running install_egg_info
+Copying ../../build/fs_control/fs_control.egg-info to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_control/lib/python3.12/site-packages/fs_control-0.0.0-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_control/install.log'
