@@ -1,0 +1,32 @@
+[2.286s] Invoking command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_perception': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_perception build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/install.log --single-version-externally-managed install_data
+[2.777s] running egg_info
+[2.777s] creating ../../build/fs_perception/fs_perception.egg-info
+[2.801s] writing ../../build/fs_perception/fs_perception.egg-info/PKG-INFO
+[2.802s] writing dependency_links to ../../build/fs_perception/fs_perception.egg-info/dependency_links.txt
+[2.802s] writing requirements to ../../build/fs_perception/fs_perception.egg-info/requires.txt
+[2.802s] writing top-level names to ../../build/fs_perception/fs_perception.egg-info/top_level.txt
+[2.802s] writing manifest file '../../build/fs_perception/fs_perception.egg-info/SOURCES.txt'
+[2.850s] reading manifest file '../../build/fs_perception/fs_perception.egg-info/SOURCES.txt'
+[2.851s] writing manifest file '../../build/fs_perception/fs_perception.egg-info/SOURCES.txt'
+[2.851s] running build
+[2.851s] running build_py
+[2.851s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build
+[2.851s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build/lib
+[2.851s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build/lib/fs_perception
+[2.851s] copying fs_perception/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build/lib/fs_perception
+[2.851s] running install
+[2.858s] running install_lib
+[2.881s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/lib/python3.12/site-packages/fs_perception
+[2.882s] copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build/lib/fs_perception/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/lib/python3.12/site-packages/fs_perception
+[2.882s] byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/lib/python3.12/site-packages/fs_perception/__init__.py to __init__.cpython-312.pyc
+[2.882s] running install_data
+[2.882s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/share/ament_index
+[2.882s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/share/ament_index/resource_index
+[2.882s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/share/ament_index/resource_index/packages
+[2.882s] copying resource/fs_perception -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/share/ament_index/resource_index/packages
+[2.883s] copying package.xml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/share/fs_perception
+[2.883s] running install_egg_info
+[2.908s] Copying ../../build/fs_perception/fs_perception.egg-info to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/lib/python3.12/site-packages/fs_perception-0.0.0-py3.12.egg-info
+[2.908s] running install_scripts
+[3.053s] writing list of installed files to '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/install.log'
+[3.078s] Invoked command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_perception' returned '0': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_perception/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_perception build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_perception/install.log --single-version-externally-managed install_data

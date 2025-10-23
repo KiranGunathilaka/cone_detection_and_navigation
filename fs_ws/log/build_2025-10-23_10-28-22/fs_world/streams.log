@@ -1,0 +1,38 @@
+[2.031s] Invoking command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_world': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_world build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/install.log --single-version-externally-managed install_data
+[2.352s] running egg_info
+[2.353s] creating ../../build/fs_world/fs_world.egg-info
+[2.381s] writing ../../build/fs_world/fs_world.egg-info/PKG-INFO
+[2.381s] writing dependency_links to ../../build/fs_world/fs_world.egg-info/dependency_links.txt
+[2.381s] writing entry points to ../../build/fs_world/fs_world.egg-info/entry_points.txt
+[2.382s] writing requirements to ../../build/fs_world/fs_world.egg-info/requires.txt
+[2.382s] writing top-level names to ../../build/fs_world/fs_world.egg-info/top_level.txt
+[2.382s] writing manifest file '../../build/fs_world/fs_world.egg-info/SOURCES.txt'
+[2.436s] reading manifest file '../../build/fs_world/fs_world.egg-info/SOURCES.txt'
+[2.437s] writing manifest file '../../build/fs_world/fs_world.egg-info/SOURCES.txt'
+[2.437s] running build
+[2.437s] running build_py
+[2.438s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build
+[2.438s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build/lib
+[2.438s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build/lib/fs_world
+[2.438s] copying fs_world/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build/lib/fs_world
+[2.438s] copying fs_world/oval_track_world.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build/lib/fs_world
+[2.439s] running install
+[2.445s] running install_lib
+[2.472s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages/fs_world
+[2.472s] copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build/lib/fs_world/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages/fs_world
+[2.472s] copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build/lib/fs_world/oval_track_world.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages/fs_world
+[2.472s] byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages/fs_world/__init__.py to __init__.cpython-312.pyc
+[2.473s] byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages/fs_world/oval_track_world.py to oval_track_world.cpython-312.pyc
+[2.473s] running install_data
+[2.473s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/share/ament_index
+[2.473s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/share/ament_index/resource_index
+[2.473s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/share/ament_index/resource_index/packages
+[2.473s] copying resource/fs_world -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/share/ament_index/resource_index/packages
+[2.474s] copying package.xml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/share/fs_world
+[2.474s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/share/fs_world/fs_world
+[2.474s] running install_egg_info
+[2.501s] Copying ../../build/fs_world/fs_world.egg-info to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages/fs_world-0.0.1-py3.12.egg-info
+[2.502s] running install_scripts
+[2.672s] Installing make_world script to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/fs_world
+[2.672s] writing list of installed files to '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/install.log'
+[2.771s] Invoked command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_world' returned '0': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_world/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_world build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_world/install.log --single-version-externally-managed install_data

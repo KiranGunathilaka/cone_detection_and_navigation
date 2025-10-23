@@ -1,0 +1,36 @@
+[2.037s] Invoking command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_vehicle': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_vehicle build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/install.log --single-version-externally-managed install_data
+[2.357s] running egg_info
+[2.357s] creating ../../build/fs_vehicle/fs_vehicle.egg-info
+[2.382s] writing ../../build/fs_vehicle/fs_vehicle.egg-info/PKG-INFO
+[2.383s] writing dependency_links to ../../build/fs_vehicle/fs_vehicle.egg-info/dependency_links.txt
+[2.385s] writing requirements to ../../build/fs_vehicle/fs_vehicle.egg-info/requires.txt
+[2.385s] writing top-level names to ../../build/fs_vehicle/fs_vehicle.egg-info/top_level.txt
+[2.385s] writing manifest file '../../build/fs_vehicle/fs_vehicle.egg-info/SOURCES.txt'
+[2.438s] reading manifest file '../../build/fs_vehicle/fs_vehicle.egg-info/SOURCES.txt'
+[2.438s] writing manifest file '../../build/fs_vehicle/fs_vehicle.egg-info/SOURCES.txt'
+[2.439s] running build
+[2.439s] running build_py
+[2.440s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build
+[2.440s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib
+[2.440s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib/fs_vehicle
+[2.440s] copying fs_vehicle/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib/fs_vehicle
+[2.440s] running install
+[2.446s] running install_lib
+[2.472s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle
+[2.472s] copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib/fs_vehicle/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle
+[2.473s] byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle/__init__.py to __init__.cpython-312.pyc
+[2.473s] running install_data
+[2.474s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index
+[2.474s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index/resource_index
+[2.474s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index/resource_index/packages
+[2.474s] copying resource/fs_vehicle -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index/resource_index/packages
+[2.474s] copying package.xml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle
+[2.476s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/urdf
+[2.476s] copying fs_vehicle/ackermann_car.urdf.xacro -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/urdf
+[2.476s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/config
+[2.476s] copying fs_vehicle/config/controllers.yaml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/config
+[2.476s] running install_egg_info
+[2.503s] Copying ../../build/fs_vehicle/fs_vehicle.egg-info to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle-0.0.1-py3.12.egg-info
+[2.504s] running install_scripts
+[2.669s] writing list of installed files to '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/install.log'
+[2.781s] Invoked command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_vehicle' returned '0': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_vehicle build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/install.log --single-version-externally-managed install_data

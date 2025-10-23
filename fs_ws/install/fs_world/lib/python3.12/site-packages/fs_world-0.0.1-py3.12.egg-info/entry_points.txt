@@ -1,0 +1,2 @@
+[console_scripts]
+make_world = fs_world.oval_track_world:main

@@ -1,0 +1,32 @@
+[2.044s] Invoking command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_geometry': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_geometry build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/install.log --single-version-externally-managed install_data
+[2.366s] running egg_info
+[2.366s] creating ../../build/fs_geometry/fs_geometry.egg-info
+[2.392s] writing ../../build/fs_geometry/fs_geometry.egg-info/PKG-INFO
+[2.392s] writing dependency_links to ../../build/fs_geometry/fs_geometry.egg-info/dependency_links.txt
+[2.393s] writing requirements to ../../build/fs_geometry/fs_geometry.egg-info/requires.txt
+[2.393s] writing top-level names to ../../build/fs_geometry/fs_geometry.egg-info/top_level.txt
+[2.393s] writing manifest file '../../build/fs_geometry/fs_geometry.egg-info/SOURCES.txt'
+[2.448s] reading manifest file '../../build/fs_geometry/fs_geometry.egg-info/SOURCES.txt'
+[2.449s] writing manifest file '../../build/fs_geometry/fs_geometry.egg-info/SOURCES.txt'
+[2.449s] running build
+[2.449s] running build_py
+[2.450s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build
+[2.450s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build/lib
+[2.450s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build/lib/fs_geometry
+[2.451s] copying fs_geometry/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build/lib/fs_geometry
+[2.451s] running install
+[2.458s] running install_lib
+[2.484s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/lib/python3.12/site-packages/fs_geometry
+[2.484s] copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build/lib/fs_geometry/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/lib/python3.12/site-packages/fs_geometry
+[2.485s] byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/lib/python3.12/site-packages/fs_geometry/__init__.py to __init__.cpython-312.pyc
+[2.486s] running install_data
+[2.486s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/share/ament_index
+[2.486s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/share/ament_index/resource_index
+[2.486s] creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/share/ament_index/resource_index/packages
+[2.486s] copying resource/fs_geometry -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/share/ament_index/resource_index/packages
+[2.486s] copying package.xml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/share/fs_geometry
+[2.487s] running install_egg_info
+[2.514s] Copying ../../build/fs_geometry/fs_geometry.egg-info to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/lib/python3.12/site-packages/fs_geometry-0.0.0-py3.12.egg-info
+[2.515s] running install_scripts
+[2.680s] writing list of installed files to '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/install.log'
+[2.770s] Invoked command in '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/src/fs_geometry' returned '0': CONDA_PROMPT_MODIFIER=(/home/kiran_gunathilaka/conda-envs/mlcv) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_geometry/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/fs_geometry build --build-base /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/build install --record /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_geometry/install.log --single-version-externally-managed install_data

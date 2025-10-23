@@ -1,0 +1,15 @@
+controller_manager:
+  ros__parameters:
+    update_rate: 200
+
+    ackermann_steering_controller:
+      type: ackermann_steering_controller/AckermannSteeringController
+      front_wheel_names: ["wheel_fl", "wheel_fr"]
+      rear_wheel_names:  ["wheel_rl", "wheel_rr"]
+      wheelbase: 1.8
+      front_wheel_track: 1.0
+      rear_wheel_track: 1.0
+      twist_command_timeout: 0.25
+
+    joint_state_broadcaster:
+      type: joint_state_broadcaster/JointStateBroadcaster

@@ -1,0 +1,34 @@
+running egg_info
+creating ../../build/fs_vehicle/fs_vehicle.egg-info
+writing ../../build/fs_vehicle/fs_vehicle.egg-info/PKG-INFO
+writing dependency_links to ../../build/fs_vehicle/fs_vehicle.egg-info/dependency_links.txt
+writing requirements to ../../build/fs_vehicle/fs_vehicle.egg-info/requires.txt
+writing top-level names to ../../build/fs_vehicle/fs_vehicle.egg-info/top_level.txt
+writing manifest file '../../build/fs_vehicle/fs_vehicle.egg-info/SOURCES.txt'
+reading manifest file '../../build/fs_vehicle/fs_vehicle.egg-info/SOURCES.txt'
+writing manifest file '../../build/fs_vehicle/fs_vehicle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib/fs_vehicle
+copying fs_vehicle/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib/fs_vehicle
+running install
+running install_lib
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle
+copying /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/build/lib/fs_vehicle/__init__.py -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle
+byte-compiling /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle/__init__.py to __init__.cpython-312.pyc
+running install_data
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index/resource_index
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index/resource_index/packages
+copying resource/fs_vehicle -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/ament_index/resource_index/packages
+copying package.xml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/urdf
+copying fs_vehicle/ackermann_car.urdf.xacro -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/urdf
+creating /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/config
+copying fs_vehicle/config/controllers.yaml -> /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/share/fs_vehicle/config
+running install_egg_info
+Copying ../../build/fs_vehicle/fs_vehicle.egg-info to /home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/install/fs_vehicle/lib/python3.12/site-packages/fs_vehicle-0.0.1-py3.12.egg-info
+running install_scripts
+writing list of installed files to '/home/kiran_gunathilaka/development/mlcv/cone_detection_navigation/fs_ws/build/fs_vehicle/install.log'

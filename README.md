@@ -65,3 +65,9 @@ The weights of the final model(.pt files) that was trained for the 3 classes is 
 The notebook that was used for the entire training and testing is available in the notebooks directory
 
 Results from predictions are in the `./cone_detection_model/runs/` directory
+
+## 2.0 Navigation simulation
+
+Started building from scratch but found a already gazebo simulation from europe fs team. Thinking of getting their urdf for the vehicle package as then I don't have to create every joint, link and meshes from some cad softwar by myself. 
+
+But have to stop now as tommorrow have an Electromagentic quiz and until monday had the Computer Vision Project and assignment. Also working on Event Access Control System for over 10K people and PCB design must have been sent already which I haven't. And it is on Nov 1
