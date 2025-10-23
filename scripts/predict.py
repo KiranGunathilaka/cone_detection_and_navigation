@@ -8,7 +8,7 @@ test_path = "./dataset/Formula-Student-Cones-1/test/images/"
 
 results = model.predict(source=test_path, conf=0.5, save=False)
 
-out_dir = "./results_got_locally/"
+out_dir = "./runs/results_got_locally/"
 os.makedirs(out_dir, exist_ok=True)
 
 for i, r in enumerate(results):

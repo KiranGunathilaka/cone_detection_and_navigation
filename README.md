@@ -18,7 +18,7 @@ A **YOLOv8** model was trained for the cone detection task, which is responsible
 
 ### 1.2. Dataset
 
-The model was trained on a **publicly available dataset** (specifically, the Formula Student Cones dataset but had to clone it and re-export it in a way that the images are not stretched and distorted. 
+The model was trained on a **publicly available dataset** (specifically, the Formula Student Cones dataset but had to clone it and re-export it in a way that the images are not stretched(resized) and distorted. 
 
 The dataset comprises images of cones under various lighting and pose conditions to ensure the model is robust.
 
@@ -52,6 +52,8 @@ The final model was validated on a separate test set, yielding the following per
 
 Open the `notebooks/inference.ipynb` and run it.
 
+Or run the `scripts/predict.py` after changing the input data directory
+
 
 ### 1.5. Training Visualizations
 
@@ -62,4 +64,4 @@ The weights of the final model(.pt files) that was trained for the 3 classes is 
 
 The notebook that was used for the entire training and testing is available in the notebooks directory
 
-Results from predictions are in the `prediction_outputs/pred_custom`
+Results from predictions are in the `runs/` directory
