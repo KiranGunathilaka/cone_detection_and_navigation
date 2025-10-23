@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['big orange', 'blue cone', 'yellow cone']
+
+roboflow:
+  workspace: workspaceendeavor360
+  project: formula-student-cones-roz6f
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/workspaceendeavor360/formula-student-cones-roz6f/dataset/1
